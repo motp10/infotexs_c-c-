@@ -1,7 +1,7 @@
 #pragma once
 
 #include <string>
-#include "importance_level.h"
+#include "../logger/importance_level.h"
 
 struct ConsoleOptions {
   std::string log_file;
